@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="p2-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="100%" stop-color="#141c2e" />
+    </linearGradient>
+    <linearGradient id="p2-card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+    <linearGradient id="p2-card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="p2-card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="16" fill="url(#p2-bg)" />
+
+  <!-- App Header / Nav -->
+  <rect width="600" height="48" rx="16" fill="#1e293b" />
+  <rect y="36" width="600" height="12" fill="#1e293b" />
+  <circle cx="35" cy="24" r="10" fill="#f43f5e" />
+  <text x="55" y="29" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold">LUMINA SHOP</text>
+  <rect x="220" y="14" width="220" height="22" rx="11" fill="#0f172a" />
+  <text x="240" y="29" fill="#64748b" font-family="sans-serif" font-size="11">Search luxury goods, apparel...</text>
+  <circle cx="550" cy="24" r="12" fill="#334155" />
+  <circle cx="515" cy="24" r="12" fill="#334155" />
+
+  <!-- Hero Promo Banner -->
+  <rect x="25" y="65" width="550" height="100" rx="12" fill="linear-gradient(135deg, #1e1b4b, #312e81)" stroke="#4338ca" stroke-width="1"/>
+  <text x="50" y="105" fill="#ffffff" font-family="sans-serif" font-size="20" font-weight="800">Summer Modern Collection '26</text>
+  <text x="50" y="128" fill="#a5b4fc" font-family="sans-serif" font-size="12">Ultra-responsive cart, sub-second checkout, edge caching</text>
+  <rect x="440" y="95" width="110" height="36" rx="18" fill="#ec4899" />
+  <text x="495" y="118" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Shop Now →</text>
+
+  <!-- Product Grid -->
+  <!-- Card 1 -->
+  <rect x="25" y="180" width="165" height="180" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <rect x="35" y="190" width="145" height="90" rx="6" fill="url(#p2-card1)" opacity="0.85" />
+  <circle cx="107" cy="235" r="28" fill="#ffffff" opacity="0.2" />
+  <text x="38" y="300" fill="#f8fafc" font-family="sans-serif" font-size="12" font-weight="bold">Aura Noise Cancelling</text>
+  <text x="38" y="318" fill="#94a3b8" font-family="sans-serif" font-size="11">Wireless Hi-Fi</text>
+  <text x="38" y="342" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="bold">$289.00</text>
+  <rect x="135" y="325" width="45" height="24" rx="6" fill="#3b82f6" />
+  <text x="157" y="341" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">+</text>
+
+  <!-- Card 2 -->
+  <rect x="215" y="180" width="165" height="180" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <rect x="225" y="190" width="145" height="90" rx="6" fill="url(#p2-card2)" opacity="0.85" />
+  <circle cx="297" cy="235" r="28" fill="#ffffff" opacity="0.2" />
+  <text x="228" y="300" fill="#f8fafc" font-family="sans-serif" font-size="12" font-weight="bold">Zenith Minimal Chrono</text>
+  <text x="228" y="318" fill="#94a3b8" font-family="sans-serif" font-size="11">Titanium Sapphire</text>
+  <text x="228" y="342" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="bold">$440.00</text>
+  <rect x="325" y="325" width="45" height="24" rx="6" fill="#3b82f6" />
+  <text x="347" y="341" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">+</text>
+
+  <!-- Card 3 -->
+  <rect x="405" y="180" width="165" height="180" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <rect x="415" y="190" width="145" height="90" rx="6" fill="url(#p2-card3)" opacity="0.85" />
+  <circle cx="487" cy="235" r="28" fill="#ffffff" opacity="0.2" />
+  <text x="418" y="300" fill="#f8fafc" font-family="sans-serif" font-size="12" font-weight="bold">Pulse Smart Tracker</text>
+  <text x="418" y="318" fill="#94a3b8" font-family="sans-serif" font-size="11">Biometrics Pro</text>
+  <text x="418" y="342" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="bold">$199.00</text>
+  <rect x="515" y="325" width="45" height="24" rx="6" fill="#3b82f6" />
+  <text x="537" y="341" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">+</text>
+</svg>

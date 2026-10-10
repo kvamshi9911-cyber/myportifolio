@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="p6-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="16" fill="url(#p6-bg)" />
+
+  <!-- App Header -->
+  <rect width="600" height="42" rx="16" fill="#1e1b4b" />
+  <rect y="30" width="600" height="12" fill="#1e1b4b" />
+  <circle cx="28" cy="21" r="6" fill="#8b5cf6" />
+  <text x="45" y="26" fill="#f3e8ff" font-family="sans-serif" font-size="12" font-weight="bold">ATELIER UI DESIGN SYSTEM</text>
+  <text x="560" y="26" fill="#c084fc" font-family="monospace" font-size="11" text-anchor="end">v3.0.0-rc4</text>
+
+  <!-- Component Showcase Grid -->
+  <g transform="translate(30, 60)">
+    <!-- Buttons Component Box -->
+    <rect x="0" y="0" width="260" height="135" rx="10" fill="#2e1065" stroke="#6b21a8" stroke-width="1" />
+    <text x="20" y="25" fill="#e9d5ff" font-family="sans-serif" font-size="12" font-weight="600">Button Variants</text>
+    
+    <!-- Primary Button -->
+    <rect x="20" y="42" width="100" height="34" rx="8" fill="#8b5cf6" />
+    <text x="70" y="63" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Primary</text>
+    
+    <!-- Secondary Button -->
+    <rect x="135" y="42" width="105" height="34" rx="8" fill="transparent" stroke="#a855f7" stroke-width="1.5" />
+    <text x="187" y="63" fill="#e9d5ff" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">Secondary</text>
+
+    <!-- Glassmorphic Button -->
+    <rect x="20" y="86" width="100" height="32" rx="8" fill="#ffffff" opacity="0.12" stroke="#ffffff" stroke-width="0.8" />
+    <text x="70" y="106" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Glass Effect</text>
+
+    <!-- Danger Button -->
+    <rect x="135" y="86" width="105" height="32" rx="8" fill="#ef4444" />
+    <text x="187" y="106" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">Destructive</text>
+
+    <!-- Switch & Inputs Box -->
+    <rect x="280" y="0" width="260" height="135" rx="10" fill="#2e1065" stroke="#6b21a8" stroke-width="1" />
+    <text x="300" y="25" fill="#e9d5ff" font-family="sans-serif" font-size="12" font-weight="600">Form Controls &amp; Switches</text>
+
+    <!-- Switch On -->
+    <rect x="300" y="45" width="46" height="24" rx="12" fill="#8b5cf6" />
+    <circle cx="334" cy="57" r="9" fill="#ffffff" />
+    <text x="358" y="61" fill="#cbd5e1" font-family="sans-serif" font-size="11">Notifications Enabled</text>
+
+    <!-- Input field mockup -->
+    <rect x="300" y="82" width="220" height="34" rx="6" fill="#1e1b4b" stroke="#7e22ce" stroke-width="1" />
+    <text x="312" y="103" fill="#94a3b8" font-family="sans-serif" font-size="11">Enter email address...</text>
+
+    <!-- Color Palette Tokens -->
+    <rect x="0" y="150" width="540" height="145" rx="10" fill="#2e1065" stroke="#6b21a8" stroke-width="1" />
+    <text x="20" y="175" fill="#e9d5ff" font-family="sans-serif" font-size="12" font-weight="600">Design Tokens &amp; Color Radiance</text>
+    
+    <rect x="20" y="195" width="90" height="50" rx="8" fill="#8b5cf6" />
+    <text x="30" y="260" fill="#c084fc" font-family="monospace" font-size="10">Primary 500</text>
+    
+    <rect x="125" y="195" width="90" height="50" rx="8" fill="#ec4899" />
+    <text x="135" y="260" fill="#f472b6" font-family="monospace" font-size="10">Accent Pink</text>
+
+    <rect x="230" y="195" width="90" height="50" rx="8" fill="#06b6d4" />
+    <text x="240" y="260" fill="#67e8f9" font-family="monospace" font-size="10">Cyan Aura</text>
+
+    <rect x="335" y="195" width="90" height="50" rx="8" fill="#10b981" />
+    <text x="345" y="260" fill="#6ee7b7" font-family="monospace" font-size="10">Emerald Glow</text>
+
+    <rect x="440" y="195" width="80" height="50" rx="8" fill="#f59e0b" />
+    <text x="445" y="260" fill="#fcd34d" font-family="monospace" font-size="10">Amber Gold</text>
+  </g>
+</svg>
